@@ -2,6 +2,8 @@
 
 # Run
 
+Copy `backend/example.env` to `backend/.env` and adapt it.
+
 ```
 $ docker compose up
 ```

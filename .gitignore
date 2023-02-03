@@ -2,5 +2,6 @@
 
 # Backend
 backend/.env
+backend/app/__pycache__/
 
 # Frontend
