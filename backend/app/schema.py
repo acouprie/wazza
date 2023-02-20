@@ -10,3 +10,6 @@ class UserCreate(schemas.BaseUserCreate):
 
 class UserUpdate(schemas.BaseUserUpdate):
     pass
+
+class UserDB(schemas.BaseUser[uuid.UUID]):
+    pass
